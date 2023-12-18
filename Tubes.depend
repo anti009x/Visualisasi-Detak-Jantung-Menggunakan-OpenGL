@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1702875125 source:c:\users\rizky sulaeman\videos\pratikuem dan latihan opengl\tubes\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+881786480 e:\glut komponen\codeblocks\mingwpraktikum3\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\winuser.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winerror.h
+
+1341006776 e:\glut komponen\codeblocks\mingwpraktikum3\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 e:\glut komponen\codeblocks\mingwpraktikum3\include\_mingw.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\basetsd.h
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\pshpack4.h
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\poppack.h
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\winver.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\dde.h
+
+1301111150 e:\glut komponen\codeblocks\mingwpraktikum3\include\dlgs.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\commctrl.h
+	<prsht.h>
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\prsht.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\windef.h
+	<winnt.h>
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\wincon.h
+
+1301111160 e:\glut komponen\codeblocks\mingwpraktikum3\include\winbase.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\wingdi.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winnls.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winnetwk.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winreg.h
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\winsvc.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\cderr.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\ddeml.h
+
+1301111150 e:\glut komponen\codeblocks\mingwpraktikum3\include\imm.h
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\lzexpand.h
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\mmsystem.h
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\nb30.h
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\basetyps.h
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcdcep.h
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcnsi.h
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcnterr.h
+
+1341006772 e:\glut komponen\codeblocks\mingwpraktikum3\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 e:\glut komponen\codeblocks\mingwpraktikum3\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\pshpack2.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winperf.h
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 e:\glut komponen\codeblocks\mingwpraktikum3\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\objfwd.h
+	<basetyps.h>
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 e:\glut komponen\codeblocks\mingwpraktikum3\include\rpcnsip.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winspool.h
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winsock2.h
+	<windows.h>
+
+1301111162 e:\glut komponen\codeblocks\mingwpraktikum3\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\mswsock.h
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 e:\glut komponen\codeblocks\mingwpraktikum3\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\objidl.h
+	<objfwd.h>
+
+1301111148 e:\glut komponen\codeblocks\mingwpraktikum3\include\cguid.h
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\olectlid.h
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\oleauto.h
+	<oaidl.h>
+
+1301111154 e:\glut komponen\codeblocks\mingwpraktikum3\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 e:\glut komponen\codeblocks\mingwpraktikum3\include\oleidl.h
+	<objfwd.h>
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\gl\gl.h
+
+1301111164 e:\glut komponen\codeblocks\mingwpraktikum3\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1341006774 e:\glut komponen\codeblocks\mingwpraktikum3\include\math.h
+	<_mingw.h>
+
